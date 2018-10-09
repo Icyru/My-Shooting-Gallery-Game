@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "5c7beffc-2c54-4f39-99bb-6027ef40c125",
+            "Value": {
+                "id": "05686743-1b47-4169-8840-0149f8ee0612",
+                "resourcePath": "objects\\object_controller\\object_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e65636c-5925-420a-a35d-316b58dabfce",
             "Value": {
                 "id": "49e0e6e1-62fc-4cb5-9011-fef0e7cdaeb8",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "95472dee-9b10-4fe1-bc7c-a07a8032d426",
+            "Value": {
+                "id": "55b9eda5-336f-4407-becd-3f5fdb352550",
+                "resourcePath": "objects\\object_duck_target\\object_duck_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "96126d3c-2a55-4558-bd6c-5b001fe11ff8",
             "Value": {
                 "id": "1fbadf61-4a98-4e35-8e56-2072d9abe854",
@@ -202,7 +218,7 @@
             "Key": "9ed13b3c-32fa-470f-9e8b-91e74921deef",
             "Value": {
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_main\\room_main.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -236,6 +252,14 @@
                 "id": "47fc413a-6ec0-4c8a-bb43-b0db8ff82cab",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd777d60-9584-4433-bb17-b79a9e633572",
+            "Value": {
+                "id": "dc52a682-43a9-4536-975f-2bbfa70b39f7",
+                "resourcePath": "timelines\\timeline_room_main\\timeline_room_main.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
