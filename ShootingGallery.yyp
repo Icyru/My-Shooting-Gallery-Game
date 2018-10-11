@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "24f3546a-8227-420b-8470-ce821eacb395",
-            "Value": {
-                "id": "551a7d80-6599-4b4e-ac6f-4bd065d17325",
-                "resourcePath": "objects\\object_score\\object_score.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2591d5d1-265e-4a43-90ed-7b4272ca04db",
             "Value": {
                 "id": "5ad33468-97b4-4826-bbeb-bd2b24253524",

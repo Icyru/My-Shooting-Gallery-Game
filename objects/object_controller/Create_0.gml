@@ -7,3 +7,9 @@
 timeline_index = timeline_room_main;
 timeline_loop = 1;
 timeline_running = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 026594C1
+/// @DnDArgument : "var" "score"
+score = 0;

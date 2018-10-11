@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
-/// @DnDHash : 42C9E182
+/// @DnDHash : 0CBC23FB
 /// @DnDArgument : "x" "50"
 /// @DnDArgument : "y" "10"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
