@@ -13,3 +13,10 @@ timeline_running = 1;
 /// @DnDHash : 026594C1
 /// @DnDArgument : "var" "score"
 score = 0;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 015687B0
+/// @DnDArgument : "lives" "8"
+
+__dnd_lives = real(8);

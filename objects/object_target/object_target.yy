@@ -1,38 +1,38 @@
 {
-    "id": "5c7beffc-2c54-4f39-99bb-6027ef40c125",
+    "id": "fbb1f021-0b38-4a82-a48b-0cb1813a972f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_controller",
+    "name": "object_target",
     "eventList": [
         {
-            "id": "cc7b186e-08ce-4963-9790-7d5b065ef967",
+            "id": "ec058c39-79de-43ad-a076-2ba30e76cac8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "5c7beffc-2c54-4f39-99bb-6027ef40c125"
+            "m_owner": "fbb1f021-0b38-4a82-a48b-0cb1813a972f"
         },
         {
-            "id": "4e49160b-17bc-4877-9dc7-15b41404411c",
+            "id": "7b362080-7939-4385-b593-1316775c599d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "5c7beffc-2c54-4f39-99bb-6027ef40c125"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "fbb1f021-0b38-4a82-a48b-0cb1813a972f"
         },
         {
-            "id": "fdb31b38-96f7-47e1-b6e8-c9f26defde81",
+            "id": "78d3bc96-456b-4392-bdc4-4026ba50238b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "5c7beffc-2c54-4f39-99bb-6027ef40c125"
+            "eventtype": 7,
+            "m_owner": "fbb1f021-0b38-4a82-a48b-0cb1813a972f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "73e9d4b7-50f1-412d-b468-d6b2a89d83b5",
     "visible": true
 }
